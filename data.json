@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sinners",
+    "descripcion": "Dos hermanos gemelos intentan dejar atrás su pasado oscuro y volver a casa, pero descubren que un mal mucho más aterrador los espera.",
+    "categoria": "Terror",
+    "tipo": "Película",
+    "año": 2025,
+    "actores": ["Michael B. Jordan", "Hailee Steinfeld", "Jack O'Connell"],
+    "imagen": "imagenes/sinners.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "People We Meet on Vacation",
+    "descripcion": "Dos mejores amigos, opuestos en todo, comparten vacaciones de verano cada año. Diez años después, intentan salvar su amistad en un último viaje.",
+    "categoria": "Romance",
+    "tipo": "Película",
+    "año": 2021,
+    "actores": ["Alex Roe", "Victoria Pedretti"],
+    "imagen": "imagenes/people.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Game of Thrones",
+    "descripcion": "Familias nobles luchan por el control del Trono de Hierro en un mundo de fantasía épica lleno de traiciones, guerra y magia.",
+    "categoria": "Fantasía",
+    "tipo": "Serie",
+    "año": 2011,
+    "actores": ["Emilia Clarke", "Kit Harington", "Peter Dinklage"],
+    "imagen": "imagenes/gameoftrhones.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Peaky Blinders",
+    "descripcion": "Tommy Shelby lidera una peligrosa banda criminal en Birmingham tras la Primera Guerra Mundial, expandiendo su imperio a cualquier costo.",
+    "categoria": "Drama",
+    "tipo": "Serie",
+    "año": 2013,
+    "actores": ["Cillian Murphy", "Helen McCrory", "Tom Hardy"],
+    "imagen": "imagenes/peaky.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "La Casa de Papel",
+    "descripcion": "Un misterioso profesor recluta a ocho ladrones para llevar a cabo el atraco más ambicioso de la historia en la Fábrica Nacional de Moneda.",
+    "categoria": "Thriller",
+    "tipo": "Serie",
+    "año": 2017,
+    "actores": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"],
+    "imagen": "imagenes/casadepapel.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Outer Banks",
+    "descripcion": "Un grupo de adolescentes de clase baja se embarca en una búsqueda del tesoro que los enfrenta a los ricos y poderosos de su isla.",
+    "categoria": "Aventura",
+    "tipo": "Serie",
+    "año": 2020,
+    "actores": ["Chase Stokes", "Madelyn Cline", "Madison Bailey"],
+    "imagen": "imagenes/outerbanks.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Top Gun: Maverick",
+    "descripcion": "Maverick regresa como instructor de pilotos de élite y debe enfrentarse a su pasado mientras lidera a una nueva generación en una misión imposible.",
+    "categoria": "Acción",
+    "tipo": "Película",
+    "año": 2022,
+    "actores": ["Tom Cruise", "Miles Teller", "Jennifer Connelly"],
+    "imagen": "imagenes/topgun.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Baby Driver",
+    "descripcion": "Un joven conductor de huidas para el crimen intenta alejarse del mundo delictivo cuando se enamora, pero el destino tiene otros planes.",
+    "categoria": "Acción",
+    "tipo": "Película",
+    "año": 2017,
+    "actores": ["Ansel Elgort", "Lily James", "Jamie Foxx"],
+    "imagen": "imagenes/babydriver.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Euphoria",
+    "descripcion": "Rue, una adolescente en recuperación, navega entre drogas, amor e identidad junto a sus amigos en una ciudad que los consume.",
+    "categoria": "Drama",
+    "tipo": "Serie",
+    "año": 2019,
+    "actores": ["Zendaya", "Hunter Schafer", "Sydney Sweeney"],
+    "imagen": "imagenes/euphoria.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Orgullo y Prejuicio",
+    "descripcion": "Elizabeth Bennet y el orgulloso Mr. Darcy se enfrentan en una batalla de ingenio y malentendidos que esconde un amor inevitable.",
+    "categoria": "Romance",
+    "tipo": "Película",
+    "año": 2005,
+    "actores": ["Keira Knightley", "Matthew Macfadyen", "Judi Dench"],
+    "imagen": "imagenes/orgulloyprejuicio.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "27 Bodas",
+    "descripcion": "Jane ha sido dama de honor 27 veces pero nunca la novia. Todo cambia cuando un periodista descubre su historia y su hermana se compromete con el hombre que ella ama.",
+    "categoria": "Comedia Romántica",
+    "tipo": "Película",
+    "año": 2008,
+    "actores": ["Katherine Heigl", "James Marsden", "Malin Åkerman"],
+    "imagen": "imagenes/27bodas.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Step Up",
+    "descripcion": "Un joven de los suburbios con talento para el baile urbano conecta con una bailarina clásica, descubriendo que juntos pueden romper todas las barreras.",
+    "categoria": "Drama Musical",
+    "tipo": "Película",
+    "año": 2006,
+    "actores": ["Channing Tatum", "Jenna Dewan", "Damaine Radcliff"],
+    "imagen": "imagenes/stepup.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Divergente",
+    "descripcion": "En un futuro distópico, Tris descubre que no encaja en ninguna facción y que su secreto podría destruir a la sociedad entera.",
+    "categoria": "Ciencia Ficción",
+    "tipo": "Película",
+    "año": 2014,
+    "actores": ["Shailene Woodley", "Theo James", "Kate Winslet"],
+    "imagen": "imagenes/divergente.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Crepúsculo",
+    "descripcion": "Bella Swan se muda a un pequeño pueblo lluvioso y se enamora de Edward Cullen, un misterioso estudiante que resulta ser un vampiro.",
+    "categoria": "Romance",
+    "tipo": "Película",
+    "año": 2008,
+    "actores": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner"],
+    "imagen": "imagenes/crepusculo.jpg"
+  }
+]
